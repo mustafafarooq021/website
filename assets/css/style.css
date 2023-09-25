@@ -1093,12 +1093,13 @@ section {
 
 #footer .copyright {
   text-align: center;
+  font-size: 7px;
 }
 
 #footer .credits {
   padding-top: 5px;
   text-align: center;
-  font-size: 13px;
+  font-size: 7px;
   color: #eaebf0;
 }
 
