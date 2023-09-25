@@ -1173,3 +1173,18 @@ section {
     padding-right: 20px 15px;
   }
 }
+
+button[type="download"] {
+  margin-top: 25px;
+  margin-right: 20px; /* Adjust the margin-right value as needed to move the button to the left */
+  border-radius: 2px;
+  background-color: white;
+  color: black; 
+  border: 2px solid #149ddd;
+  width: 60%;
+}
+
+button[type="download"]:hover {
+  background-color: #149ddd;
+  color: white;
+}
