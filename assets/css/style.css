@@ -1115,7 +1115,7 @@ section {
 }
 
 button[type="download"] {
-  margin-top: 25px;
+  margin-top: 5px;
   margin-right: 20px; /* Adjust the margin-right value as needed to move the button to the left */
   border-radius: 2px;
   background-color: white;
